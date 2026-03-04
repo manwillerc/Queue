@@ -1,0 +1,6 @@
+1. The pop() operation removes the front element by updating a pointer or index without shifting
+elements, so the worst-case time complexity is O(1).
+
+2. The shortest route algorithm uses breadth-first search, which explores airports level by level
+using a queue and guarantees the shortest path in terms of number of flights. Since each airport 
+and each flight is processed at most once, the worst-case time complexity is O(V + E).
