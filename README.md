@@ -1,2 +1,1 @@
-# Queue
-Queue Assignment
+A generic Queue implementation in C++ using std::deque as the underlying container. Designed as a templated class for any type T, demonstrating object-oriented programming, templates, and standard queue operations.
